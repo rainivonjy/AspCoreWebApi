@@ -1,0 +1,17 @@
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\bin\Debug\netcoreapp3.0\AspCoreWebApi.exe
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\bin\Debug\netcoreapp3.0\AspCoreWebApi.deps.json
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\bin\Debug\netcoreapp3.0\AspCoreWebApi.runtimeconfig.json
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\bin\Debug\netcoreapp3.0\AspCoreWebApi.runtimeconfig.dev.json
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\bin\Debug\netcoreapp3.0\AspCoreWebApi.dll
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\bin\Debug\netcoreapp3.0\AspCoreWebApi.pdb
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\obj\Debug\netcoreapp3.0\staticwebassets\AspCoreWebApi.StaticWebAssets.Manifest.cache
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\obj\Debug\netcoreapp3.0\staticwebassets\AspCoreWebApi.StaticWebAssets.xml
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\obj\Debug\netcoreapp3.0\AspCoreWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\obj\Debug\netcoreapp3.0\AspCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\obj\Debug\netcoreapp3.0\AspCoreWebApi.AssemblyInfo.cs
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\obj\Debug\netcoreapp3.0\AspCoreWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\obj\Debug\netcoreapp3.0\AspCoreWebApi.dll
+C:\Users\vonjy.rainitsihoara\Documents\Visual Studio 2019\PersonalProject\RechercheProject\AspCoreWebApi\AspCoreWebApi\obj\Debug\netcoreapp3.0\AspCoreWebApi.pdb
